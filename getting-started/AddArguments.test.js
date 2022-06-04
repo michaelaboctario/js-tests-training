@@ -1,4 +1,4 @@
-const addArguments = require('./addArguments');
+const addArguments = require('./AddArguments');
 
 test('addArguments 1 + 2 + 5 to equal 8', () => {
   expect(addArguments(1, 2, 5)).toBe(8);
