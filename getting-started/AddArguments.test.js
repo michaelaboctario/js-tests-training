@@ -1,5 +1,3 @@
-// Copyright 2004-present Facebook. All Rights Reserved.
-
 const addArguments = require('./addArguments');
 
 test('addArguments 1 + 2 + 5 to equal 8', () => {
